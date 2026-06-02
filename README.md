@@ -353,7 +353,7 @@ The visual inspection confirmed that:
 * High and Medium zones were spatially concentrated around mapped waterways
 * Property-level intersections appeared consistent with the underlying geography
 
-![QGIS Validation](docs/QGIS_validation.png)
+![QGIS Validation](docs/QGIS.png)
 
 ---
 
